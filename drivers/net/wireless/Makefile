@@ -56,4 +56,4 @@ obj-$(CONFIG_ATH9K)	+= ath9k/
 
 obj-$(CONFIG_MAC80211_HWSIM)	+= mac80211_hwsim.o
 
-obj-$(CONFIG_BCM4329)	+= bcm4329_204/
+obj-$(CONFIG_BCM4329)	+= bcm4329/
